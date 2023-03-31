@@ -6,5 +6,3 @@ sklearn
 imutils
 argparse
 matplotlib
-os
-cv2
