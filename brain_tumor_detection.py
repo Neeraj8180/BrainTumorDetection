@@ -58,7 +58,7 @@
    ],
    "source": [
     "# Load the images directories\n",
-    "path = \"C:\\\\Users\\\\neera\\\\Desktop\\\\brain_tumor_dataset\"\n",
+    "path = \"yes"\n",
     "print(os.listdir(path))\n",
     "\n",
     "image_paths = list(paths.list_images(path))\n",
