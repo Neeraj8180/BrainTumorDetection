@@ -1,0 +1,10 @@
+numpy
+pandas
+tensorflow
+cv2
+gradio
+sklearn
+imutils
+argparse
+matplotlib
+os
