@@ -17,6 +17,7 @@
    "source": [
     "# Import necessary modules\n",
     "\n",
+   "null=None\n",
     "from tensorflow.keras.preprocessing.image import ImageDataGenerator\n",
     "from tensorflow.keras.applications import VGG16\n",
     "from tensorflow.keras.layers import Input\n",
